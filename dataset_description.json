@@ -6,12 +6,14 @@
     "A",
     "B"
   ],
-"Acknowledgements": "TBD",
-"HowToAcknowledge":"TBD",
-"Funding": "TBD",
-    "ReferencesAndLinks": [
-        "TBD"
-    ],
-    "DatasetDOI": "TBD"
+  "Acknowledgements": "TBD",
+  "HowToAcknowledge":"TBD",
+  "Funding": [
+    "TBD"
+  ],
+  "ReferencesAndLinks": [
+    "TBD"
+  ],
+  "DatasetDOI": "TBD"
 }
 
