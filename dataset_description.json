@@ -1,0 +1,17 @@
+{
+  "Name": "UK Biobank",
+  "BIDSVersion": "1.2.0",
+  "License": "TBD",
+  "Authors": [
+    "A",
+    "B"
+  ],
+"Acknowledgements": "TBD",
+"HowToAcknowledge":"TBD",
+"Funding": "TBD",
+    "ReferencesAndLinks": [
+        "TBD"
+    ],
+    "DatasetDOI": "TBD"
+}
+
